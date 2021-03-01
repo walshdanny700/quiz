@@ -4,7 +4,6 @@ import com.company.quizapi.dto.TagDto;
 import com.company.quizapi.entity.Tags;
 import com.company.quizapi.repository.ITagRepository;
 import com.company.quizapi.utils.DtoMapper;
-import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
